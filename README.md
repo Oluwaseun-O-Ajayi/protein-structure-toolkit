@@ -27,6 +27,21 @@ This toolkit provides robust analysis of protein structures with publication-qua
 
 ## 🚀 Quick Start
 
+### Running Examples
+```bash
+# Navigate to project directory
+cd protein-structure-toolkit
+
+# Run basic analysis
+python -m examples.basic_analysis
+
+# Run complete pipeline
+python -m examples.complete_pipeline
+
+# Run batch analysis
+python -m examples.batch_analysis
+```
+
 ### Installation
 
 ```bash
